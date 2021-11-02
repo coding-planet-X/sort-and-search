@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../342394a653c407176ba571ea55a36234-8381be36aa31a728e73204e05b390d2410deb477"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jasmine-standalone-3.10.1"
+	}
+}
